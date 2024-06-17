@@ -11,3 +11,4 @@ c=90.543
 d=True
 
 print(a,b,c,d)
+print(type(a),type(b),type(c),type(d)) 
