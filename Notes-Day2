@@ -1,0 +1,11 @@
+List
+
+   it is collecton of objects
+   It is a linear collection of objects
+   it is a mutable collection ( the object is manipulatable)
+   it supports random access(random deletion, insertion and read)
+   We use indexing to access the elements
+   indexing starts with 0
+
+   List support functions (inbuilt) that facilitates all the necassary operations
+   List also offers a technique called slicing to read a slice(group) of elements from the list
