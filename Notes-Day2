@@ -33,3 +33,13 @@ Operator overloading is supported in python
 
 Operator overloading - same operator based on the context might
 work differently
+
+Dictionary
+---------------
+
+  So Dictionary is a key value pair
+  it is best suitable for holding values in the form of key values 
+  it is best suitable to convert json form to object form
+  it is mutable
+  keys must be unique
+  values can have duplicates
