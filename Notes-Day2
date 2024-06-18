@@ -9,3 +9,10 @@ List
 
    List support functions (inbuilt) that facilitates all the necassary operations
    List also offers a technique called slicing to read a slice(group) of elements from the list
+
+   Tuple
+
+     it is also a linear collection of objects
+     supports all the read operations of array from index based reading to slicing
+     but is an immutable collection(does not support manipulation - no write operations)
+     
