@@ -10,9 +10,26 @@ List
    List support functions (inbuilt) that facilitates all the necassary operations
    List also offers a technique called slicing to read a slice(group) of elements from the list
 
+   Duplications are allowed
+
    Tuple
 
      it is also a linear collection of objects
      supports all the read operations of array from index based reading to slicing
      but is an immutable collection(does not support manipulation - no write operations)
-     
+     Duplications are allowed
+
+     tuple=(1,0,1,1,0)
+
+   Set
+      it is also of collection of objects
+      but unordered collection of objects(no indexing)
+      It holds only unique elements(duplication not allowed)
+      It is immutable
+      it supports function to insert and remove but not based on index
+      Moreover it supports set operations like union, intersect ,minus
+
+Operator overloading is supported in python
+
+Operator overloading - same operator based on the context might
+work differently
