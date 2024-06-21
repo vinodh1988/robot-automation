@@ -1,0 +1,4 @@
+
+if a function returns a value after returning something, it cannot proceed further
+
+a function cannot return value to the caller multiple times
