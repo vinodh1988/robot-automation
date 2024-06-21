@@ -1,0 +1,13 @@
+In python project
+
+if you install a pip package using pip install
+by default it goes into global library location
+
+it can be used in all projects within that system
+
+but we move the project to different system,
+identifying the dependencies and reinstalling all of them
+might become bit tedious
+
+We go for an idea called Virtual Environment in python
+world to handle this issue
