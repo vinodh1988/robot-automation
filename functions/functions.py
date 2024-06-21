@@ -11,7 +11,14 @@ def callbackProcessor(data):
     print("received ",data)
     print("Concluding User logic")
 
+def processor2(x):
+    print("One more user process")
+    print("We process the received ",x)
+    print("we are done")
+
 doTaskWithCallback(callbackProcessor) # execution starts here
+print("---------------------------------------------------")
+doTaskWithCallback(processor2)
 
 
 
