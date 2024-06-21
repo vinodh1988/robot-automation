@@ -2,3 +2,22 @@
 if a function returns a value after returning something, it cannot proceed further
 
 a function cannot return value to the caller multiple times
+
+
+filter
+
+       Filter usually receives a collection, on 
+       every element in the collection it  applies a boolean
+       logic if the result is true it will keep the element
+       other wise truncate
+
+        for x number of inputs, the output length would be <=x
+
+map
+       
+       map usually receives a collection , on
+       every element in the collection applies a transformation
+       operation  and for each element a new result would
+       be produced
+
+       for x number of inputs, always the output length would be x
